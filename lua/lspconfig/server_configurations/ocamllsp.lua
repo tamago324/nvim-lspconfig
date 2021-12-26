@@ -20,6 +20,7 @@ return {
     get_language_id = get_language_id,
   },
   docs = {
+    package_json = 'https://raw.githubusercontent.com/ocamllabs/vscode-ocaml-platform/master/package.json',
     description = [[
 https://github.com/ocaml/ocaml-lsp
 
