@@ -7,6 +7,7 @@ return {
     root_dir = util.root_pattern('psalm.xml', 'psalm.xml.dist'),
   },
   docs = {
+    package_json = 'https://raw.githubusercontent.com/psalm/psalm-vscode-plugin/master/package.json',
     description = [[
 https://github.com/vimeo/psalm
 
