@@ -6,6 +6,7 @@ return {
     root_dir = util.root_pattern('v.mod', '.git'),
   },
   docs = {
+    package_json = 'https://raw.githubusercontent.com/vlang/vscode-vlang/master/package.json',
     description = [[
 https://github.com/vlang/vls
 
