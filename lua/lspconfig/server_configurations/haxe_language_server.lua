@@ -15,6 +15,7 @@ return {
     },
   },
   docs = {
+    package_json = 'https://raw.githubusercontent.com/vshaxe/vshaxe/master/package.json',
     description = [[
 https://github.com/vshaxe/haxe-language-server
 
