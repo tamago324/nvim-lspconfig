@@ -13,6 +13,7 @@ return {
     end,
   },
   docs = {
+    package_json = 'https://raw.githubusercontent.com/phpactor/vscode-phpactor/master/package.json',
     description = [[
 https://github.com/phpactor/phpactor
 
