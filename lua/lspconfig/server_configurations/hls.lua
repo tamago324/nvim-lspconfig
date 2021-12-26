@@ -29,6 +29,7 @@ return {
   },
 
   docs = {
+    package_json = 'https://raw.githubusercontent.com/haskell/vscode-haskell/master/package.json',
     description = [[
 https://github.com/haskell/haskell-language-server
 
