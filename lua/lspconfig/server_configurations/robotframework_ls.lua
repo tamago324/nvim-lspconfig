@@ -9,6 +9,7 @@ return {
     end,
   },
   docs = {
+    package_json = 'https://raw.githubusercontent.com/robocorp/robotframework-lsp/master/robocorp-code/package.json',
     description = [[
 https://github.com/robocorp/robotframework-lsp
 
