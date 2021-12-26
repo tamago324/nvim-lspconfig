@@ -15,6 +15,7 @@ return {
     },
   },
   docs = {
+    package_json = 'https://raw.githubusercontent.com/scalameta/metals-vscode/main/package.json',
     description = [[
 https://scalameta.org/metals/
 
