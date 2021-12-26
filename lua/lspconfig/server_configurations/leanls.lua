@@ -21,6 +21,7 @@ return {
     single_file_support = true,
   },
   docs = {
+    package_json = 'https://raw.githubusercontent.com/leanprover/vscode-lean4/master/vscode-lean4/package.json',
     description = [[
 https://github.com/leanprover/lean4
 
