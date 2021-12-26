@@ -8,6 +8,7 @@ return {
     settings = {},
   },
   docs = {
+    package_json = 'https://raw.githubusercontent.com/joe-re/sql-language-server/release/package.json',
     description = [[
 https://github.com/joe-re/sql-language-server
 
