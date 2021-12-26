@@ -115,6 +115,7 @@ return {
     },
   },
   docs = {
+    package_json = 'https://raw.githubusercontent.com/latex-lsp/texlab-vscode/master/package.json',
     description = [[
 https://github.com/latex-lsp/texlab
 
