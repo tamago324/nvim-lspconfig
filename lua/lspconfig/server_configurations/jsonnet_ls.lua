@@ -23,6 +23,7 @@ return {
     end,
   },
   docs = {
+    package_json = 'https://raw.githubusercontent.com/grafana/vscode-jsonnet/main/package.json',
     description = [[
 https://github.com/jdbaldry/jsonnet-language-server
 
