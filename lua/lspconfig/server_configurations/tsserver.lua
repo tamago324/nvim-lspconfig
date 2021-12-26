@@ -25,6 +25,7 @@ return {
     end,
   },
   docs = {
+    package_json = 'https://raw.githubusercontent.com/neoclide/coc-tsserver/master/package.json',
     description = [[
 https://github.com/theia-ide/typescript-language-server
 
