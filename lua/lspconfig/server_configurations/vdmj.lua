@@ -52,6 +52,7 @@ return {
     },
   },
   docs = {
+    package_json = 'https://raw.githubusercontent.com/jonaskrask/vdm-vscode/master/package.json',
     description = [[
 https://github.com/nickbattle/vdmj
 
