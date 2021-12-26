@@ -109,6 +109,7 @@ return {
     end,
   },
   docs = {
+    package_json = 'https://raw.githubusercontent.com/tailwindlabs/tailwindcss-intellisense/master/packages/vscode-tailwindcss/package.json',
     description = [[
 https://github.com/tailwindlabs/tailwindcss-intellisense
 
