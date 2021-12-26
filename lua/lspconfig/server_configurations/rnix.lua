@@ -11,6 +11,7 @@ return {
     init_options = {},
   },
   docs = {
+    package_json = 'https://raw.githubusercontent.com/nix-community/vscode-nix-ide/main/package.json',
     description = [[
 https://github.com/nix-community/rnix-lsp
 
