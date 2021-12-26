@@ -26,6 +26,7 @@ return {
     single_file_support = true,
   },
   docs = {
+    package_json = 'https://raw.githubusercontent.com/PowerShell/vscode-powershell/master/package.json',
     description = [[
 https://github.com/PowerShell/PowerShellEditorServices
 
