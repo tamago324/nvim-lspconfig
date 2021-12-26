@@ -8,6 +8,7 @@ return {
     single_file_support = true,
   },
   docs = {
+    package_json = 'https://raw.githubusercontent.com/Eugleo/magic-racket/master/package.json',
     description = [[
 [https://github.com/jeapostrophe/racket-langserver](https://github.com/jeapostrophe/racket-langserver)
 
