@@ -8,6 +8,7 @@ return {
     single_file_support = true,
   },
   docs = {
+    package_json = 'https://raw.githubusercontent.com/redhat-developer/vscode-xml/master/package.json',
     description = [[
 https://github.com/eclipse/lemminx
 
