@@ -29,6 +29,7 @@ return {
     },
   },
   docs = {
+    package_json = 'https://raw.githubusercontent.com/iamcco/coc-vimlsp/master/package.json',
     description = [[
 https://github.com/iamcco/vim-language-server
 
