@@ -31,6 +31,7 @@ return {
     single_file_support = true,
   },
   docs = {
+    package_json = 'https://raw.githubusercontent.com/leanprover/vscode-lean/master/package.json',
     description = [[
 https://github.com/leanprover/lean-client-js/tree/master/lean-language-server
 
