@@ -7,6 +7,7 @@ return {
     root_dir = util.root_pattern 'Cargo.toml',
   },
   docs = {
+    package_json = 'https://raw.githubusercontent.com/rust-lang/vscode-rust/master/package.json',
     description = [[
 https://github.com/rust-lang/rls
 
