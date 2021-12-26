@@ -14,6 +14,7 @@ return {
     root_dir = util.root_pattern('package.json', '.git'),
   },
   docs = {
+    package_json = 'https://raw.githubusercontent.com/sveltejs/language-tools/master/packages/svelte-vscode/package.json',
     description = [[
 https://github.com/sveltejs/language-tools/tree/master/packages/language-server
 
